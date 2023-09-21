@@ -1,9 +1,10 @@
-a {
+a{
     font-family: cursive;
-    font-size: 60px;
-    margin-left:50px ;
+    font-size: 40px;
+    margin-left: 20px;
+    color: blue;
+    text-decoration:none;
 }
-a:hover {
-    background-color:yellow;
-    color: tomato;
+a:hover{
+    color: red;
 }
